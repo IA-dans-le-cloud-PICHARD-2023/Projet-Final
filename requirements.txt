@@ -1,0 +1,11 @@
+pandas
+xgboost
+seaborn
+numpy
+spotipy
+flask
+Celery
+redis
+apache-airflow
+mlflow
+flask_socketio
